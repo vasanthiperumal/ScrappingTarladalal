@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-24T16:53:43 EDT" name="Default suite" finished-at="2023-04-24T16:59:01 EDT" duration-ms="317947">
+    <groups>
+    </groups>
+    <test started-at="2023-04-24T16:53:43 EDT" name="Default test" finished-at="2023-04-24T16:59:01 EDT" duration-ms="317947">
+      <class name="HypoThyroidism">
+        <test-method is-config="true" signature="setUpBrowser(java.lang.String)[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:53:43 EDT" name="setUpBrowser" finished-at="2023-04-24T16:53:49 EDT" duration-ms="5698" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="addonFilter()[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:53:49 EDT" name="addonFilter" finished-at="2023-04-24T16:55:51 EDT" duration-ms="122857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addonFilter -->
+        <test-method is-config="true" signature="setUpBrowser(java.lang.String)[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:55:51 EDT" name="setUpBrowser" finished-at="2023-04-24T16:55:55 EDT" duration-ms="3784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="allergyFilter()[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:55:55 EDT" name="allergyFilter" finished-at="2023-04-24T16:58:02 EDT" duration-ms="127155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allergyFilter -->
+        <test-method is-config="true" signature="setUpBrowser(java.lang.String)[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:58:02 EDT" name="setUpBrowser" finished-at="2023-04-24T16:58:06 EDT" duration-ms="3567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBrowser -->
+        <test-method signature="eliminationFilter()[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:58:06 EDT" name="eliminationFilter" finished-at="2023-04-24T16:59:01 EDT" duration-ms="54832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eliminationFilter -->
+        <test-method is-config="true" signature="browserTearDown()[pri:0, instance:HypoThyroidism@2a3b5b47]" started-at="2023-04-24T16:59:01 EDT" name="browserTearDown" finished-at="2023-04-24T16:59:01 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTearDown -->
+      </class> <!-- HypoThyroidism -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
